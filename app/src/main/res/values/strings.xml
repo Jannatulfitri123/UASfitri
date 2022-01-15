@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Kelinci Burung dan Ikan</string>
+    <string name="kelinci_burung_dan_ikan">Kelinci Burung dan Ikan Pedia</string>
+    <string name="tentang">Tentang</string>
+    <string name="notifikasi">(Tekan gambar untuk membuka galeri)</string>
+    <string name="kelinci">Ras Kelinci</string>
+    <string name="burung">Ras Burung</string>
+    <string name="ikan">Ras Ikan</string>
+    <string name="kelinci_list_title">Daftar Ras Kelinci</string>
+    <string name="burung_list_title">Daftar Ras Burung</string>
+    <string name="ikan_list_title">Daftar Ras Ikan</string>
+
+    <string name="jenis_hewan">Jenis Hewan</string>
+    <string name="asal">Asal</string>
+    <string name="deskripsi_hewan">Deskripsi hewan</string>
+
+
+    <string name="nama">NAMA</string>
+    <string name="nim">NIM</string>
+    <string name="prodi">PRODI</string>
+    <string name="sistem_informasi">SISTEM INFORMASI</string>
+    <string name="semester">SEMESTER</string>
+
+    <!--    kelinci-->
+    <string name="anggora_nama">anggora</string>
+    <string name="anggora_asal">turkey</string>
+    <string name="anggora_deskripsi">Kelinci ini berasal dari Ankara, Turki. Kelinci anggora mulai dikenal oleh publik luar Turki setelah pada tahun 1723, kelinci ini dikenalkan di Perancis oleh para pelaut Inggris.</string>
+    <string name="Dutch_nama">dutch</string>
+    <string name="Dutch_asal">Skotlandia</string>
+    <string name="Dutch_deskripsi">Kelinci Belanda atau yang sering juga disebut dengan kelinci dutch memiliki keunikan pada bulunya. Kelinci yang berasal dari Belanda ini dikenal dengan keanekaragaman warna bulu, meskipun bulunya cukup pendek.</string>
+    <string name="Dwart_nama">hereford</string>
+    <string name="Dwart_asal">iklim subtropis</string>
+    <string name="Dwart_deskripsi">Kelinci natherland dwarf, Kelinci ini mungil, beratnya hanya 490 gram sampai 1,1 kilogram dan bisa bertahan hidup hingga usia 10-12 tahun apabila dirawat dengan baik</string>
+    <string name="holland_pop_nama">holland hop</string>
+    <string name="holland_pop_asal">Portugal</string>
+    <string name="holland_pop_deskripsi">"Holland lop termasuk dalam kategori kelinci kerdil. Sebab, beratnya hanya 900 gram sampai 1,8 kilogram, tutur laman Pet Helpful. Kelinci ini bisa dikenali dari telinganya yang jatuh ke bawah, kepala bulat, dan rambut tebal.</string>
+    <!--    burung-->
+    <string name="Lovebird_nama">lovebird</string>
+    <string name="Lovebird_asal">madagaskar</string>
+    <string name="Lovebird_deskripsi">"Burung lovebird Sebagian besar spesies Lovebird berasal dari Afrika dan sisanya dari Madagaskar. Nama burung cinta ini diamati dari karakter Lovebird yang kerap berdekatan dan saling mencintai satu sama lain.</string>
+    <string name="Jalak_nama">burung jalak</string>
+    <string name="Jalak_asal">Indonesia</string>
+    <string name="Jalak_deskripsi">"Burung Jalak putih berasal dari Indonesia. burung Jalak Putih merupakan burung yang masuk dalam keluarga Sturnidae.".</string>
+    <string name="red_vector_nama">burung red vector</string>
+    <string name="red_vector_asal">Indonesia</string>
+    <string name="red_vector_deskripsi">"Burung red vector kenari berasal dari Indonesia. Burung ini mempunyai kicauan gacor dan bulu yang indah"</string>
+    <string name="Cendrawasih_nama">Irian tenggara</string>
+    <string name="Cendrawasih_asal">Irian tenggara</string>
+    <string name="Cendrawasih_deskripsi">"Burung yang berasal dari Irian Tenggara ini memiliki ukuran lebih panjang dari si Kuning Kecil tadi, yakni berukuran 34 cm.</string>
+
+    <!--    ikan-->
+    <string name="butterfly_nama">ikan butterfly</string>
+    <string name="butterfly_asal">hawai</string>
+    <string name="butterfly_deskripsi">"Ikan jenis ini dapat ditemukan di daerah terumbu karang yang dangkal dengan kedalamannya sekitar 2 sampai 46 m"</string>
+    <string name="Ikan_Badut_nama">Ikan Badut</string>
+    <string name="Ikan_Badut_asal">samudra pasifik</string>
+    <string name="Ikan_Badut_deskripsi">"Ikan badut merupakan ikan karang tropis yang hidup diperairan hangat pada daerah terumbu karang dengan kedalaman kurang dari 50 cm dan berair jernih"</string>
+    <string name="Paracanthurus_hepatus_nama">Paracanthurus hepatus</string>
+    <string name="Paracanthurus_hepatus_asal">pasifik</string>
+    <string name="Paracanthurus_hepatus_deskripsi">"Ikan ini menyebabkan keracunan jika dimakan manusia, tetapi banyak dicari sebagai ikan hias. </string>
+    <string name="firefish_nama">firefish</string>
+    <string name="firefish_asal">filipina</string>
+    <string name="firefish_deskripsi">"Firefish merupakan ikan akuarium karang yang populer karena tahan terhadap penyakit. Ikan ini berasal dari filipina"</string>
+    <string name="daftar_ras_judul">Daftar Ras Hewan</string>
+</resources>
